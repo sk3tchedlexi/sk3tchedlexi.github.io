@@ -1,2 +1,2 @@
-# sk3tchedlexi.github.io
-The repository for the lexi.sk3tched.online website.
+# Ск3тчедЛекси
+I'm Lexi, or something like that...
